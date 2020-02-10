@@ -1,6 +1,6 @@
 {
   "name": "loose-equals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Explicit non-strict equalilty comparator",
   "main": "index.js",
   "scripts": {},
@@ -8,7 +8,14 @@
     "type": "git",
     "url": "git+https://github.com/bespoyasov/loose-equals.git"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "equals",
+    "comparator",
+    "explicit",
+    "strict",
+    "loose"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
