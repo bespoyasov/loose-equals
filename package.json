@@ -1,6 +1,6 @@
 {
   "name": "loose-equals",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Explicit (and silly-joky) non-strict equality comparator.",
   "type": "module",
   "module": "index.js",
