@@ -11,7 +11,9 @@
     "comparator",
     "explicit",
     "strict",
-    "loose"
+    "loose",
+    "silly",
+    "joke"
   ],
   "author": "",
   "license": "MIT",
