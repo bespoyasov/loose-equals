@@ -3,8 +3,6 @@
   "version": "1.0.1",
   "description": "Explicit (and silly-joky) non-strict equality comparator.",
   "main": "index.js",
-  "scripts": {},
-  "repository": "bespoyasov/loose-equals",
   "keywords": [
     "javascript",
     "equals",
@@ -16,9 +14,6 @@
     "joke"
   ],
   "author": "Alex Bespoyasov <bespoyasov@me.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bespoyasov/loose-equals/issues"
-  },
-  "homepage": "https://github.com/bespoyasov/loose-equals#readme"
+  "repository": "bespoyasov/loose-equals",
+  "license": "MIT"
 }
