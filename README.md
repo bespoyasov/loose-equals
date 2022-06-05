@@ -2,7 +2,7 @@
 
 > Explicit non-strict equal comparator.
 
-JavaScript has a strict comparison operator (`===`) and a loose comparison operator (`==`). Best practice is to use strict comparsion, however sometimes you need to [lossely compare](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#Loose_equality_using) some arguments.
+JavaScript has a strict comparison operator (`===`) and a loose comparison operator (`==`). Best practice is to use strict comparison. However, sometimes you need to [loosely compare](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#Loose_equality_using) some values.
 
 You better be explicit about using loose comparison. Comments are not reliable since they get out of date very quickly. The most efficient and explicit way to say something in code is to say something _with the code_.
 
