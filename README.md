@@ -10,14 +10,12 @@ You better be explicit about using loose comparison. Comments are not reliable s
 
 ```
 npm i loose-equals
-# or
-yarn add loose-equals
 ```
 
 ## Usage
 
 ```js
-const looseEquals = require("loose-equals");
+import { looseEquals } from "loose-equals";
 
 1 === 1; // true
 1 === "1"; // false
