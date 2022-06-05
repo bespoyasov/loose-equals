@@ -4,6 +4,9 @@
   "description": "Explicit (and silly-joky) non-strict equality comparator.",
   "type": "module",
   "module": "index.js",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "javascript",
     "equals",
