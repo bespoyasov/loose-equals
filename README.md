@@ -1,6 +1,6 @@
 # Loose equals
 
-> Explicit non-strict equal comparator.
+Explicit (and silly-joky 🤡) non-strict equality comparator.
 
 JavaScript has a strict comparison operator (`===`) and a loose comparison operator (`==`). Best practice is to use strict comparison. However, sometimes you need to [loosely compare](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#Loose_equality_using) some values.
 
