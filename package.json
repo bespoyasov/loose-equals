@@ -2,7 +2,8 @@
   "name": "loose-equals",
   "version": "1.0.1",
   "description": "Explicit (and silly-joky) non-strict equality comparator.",
-  "main": "index.js",
+  "type": "module",
+  "module": "index.js",
   "keywords": [
     "javascript",
     "equals",
